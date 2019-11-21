@@ -1,0 +1,11 @@
+#node
+node_modules
+
+# npm instead of yarn to keep the setup simple
+yarn.lock
+
+#OSX
+.DS_Store
+
+#application
+uploads
